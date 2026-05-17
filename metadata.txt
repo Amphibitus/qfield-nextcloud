@@ -1,0 +1,7 @@
+[general]
+name=qfield-nextcloud
+description= Upload all Files of Project Folder
+author=g3er
+icon=webdav-upload-button.svg
+version=0.3
+homepage=https://github.com/amphibitus/qfield-nextcloud
