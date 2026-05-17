@@ -36,7 +36,7 @@ The plugin operates strictly within the official QField ecosystem. It automatica
 ## 📋 Prerequisites & Setup
 
 1. **Nextcloud App Password**: Do **NOT** use your main Nextcloud login password. Log into Nextcloud via browser, navigate to *Settings -> Security -> Devices & App Passwords*, and generate a dedicated password for QField.
-2. **Plugin Directory**: Copy the `main.qml` and your button asset (`webdav-upload-button.svg`) into your local QField plugin directory.
+2. **Plugin Directory**: Copy the `main.qml` and your button asset (`icon.svg`) into your local QField plugin directory.
 
 ---
 
